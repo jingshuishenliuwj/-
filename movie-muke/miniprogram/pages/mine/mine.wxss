@@ -1,0 +1,24 @@
+.contain{
+  background-color: #e54847;
+  height: 400rpx;
+  widows: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  flex-direction: column;
+}
+.touxiang{
+height: 200rpx;
+width: 200rpx;
+border-radius: 50%;
+overflow: hidden;
+
+}
+.username{
+  margin-top: 10rpx;
+  color: white;
+  font-size: 32rpx;
+}
+button{
+  background-color: #f1f1f1;
+}

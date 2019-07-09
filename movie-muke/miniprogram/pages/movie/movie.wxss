@@ -1,0 +1,36 @@
+.movie{
+  font-size: 32rpx;
+  height: 300rpx;
+  display: flex;
+  padding: 20rpx;
+  border-bottom: 2rpx solid #ccc;
+}
+.movie-img{
+  width: 200rpx;
+  height: 100%;
+  margin-right: 20rpx;
+
+}
+.movie-info{
+ 
+  flex: 1;
+}
+.movie-title{
+  color: #666;
+  font-size: 40rpx;
+  font-weight: bolder;
+
+}
+.movie-color{
+  color:#faaf00;
+}
+.comment{
+
+float: right;
+}
+.comment button{
+  
+  background-color:#e54847;
+  color: white;
+  font-size: 28rpx;
+}
